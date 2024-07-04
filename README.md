@@ -2,7 +2,7 @@
 
 This is a classicfication supervised learning data science project where we have build a model which predicts the gender on the basis of the features of the tooth size, this model can be very usefull for forensic studies as it will help them in identifying the gender of the specimen which will help them in further exploration of their findings.
 
-To make this model we have used classification supervised learning models as our dependent/labeled feature gender is an object data type, to build the model we have followed the following steps:
+<p>To make this model we have used classification supervised learning models as our dependent/labeled feature gender is an object data type, to build the model we have followed the following steps:</p>
 
 <ol>
   <li>Importing necessary libraries like numpy, pandas, matplotlib, seaborn, then reading the data set and saving it into a  variable. Further, checking dataset and doing basic exploration like - checking for null values, knowing all the features in data set, checking for features that can be imputed/droped, checking for outliers, knowing the features in a better way with each features description.</li>
@@ -13,4 +13,4 @@ To make this model we have used classification supervised learning models as our
   <li>To further validate our finding we have done the visualizaation for the best algorithm which has performed best among the all by using the confusion metrix, roc and auc curve. </li>
 </ol>
 
-**** Do check the supported documents which are attached to this repositry to have indepth knowledge of the project ******
+<h3>**** Do check the supported documents which are attached to this repositry to have indepth knowledge of the project ******</h3>
